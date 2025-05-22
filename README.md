@@ -1,4 +1,4 @@
-# Razor Pages Filmes - Um CRUD com ASP.NET#
+# Razor Pages Filmes - Um CRUD com ASP.NET
 
 Este projeto é um CRUD de filmes utilizando ASP.NET e páginas Razor, fazendo parte do meu aprendizado em C# e ASP.NET.
 
